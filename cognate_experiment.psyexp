@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+﻿<?xml version="1.0" ?>
 <PsychoPy2experiment encoding="utf-8" version="2026.2.5">
   <Settings>
     <Param val="use prefs" valType="str" updates="None" name="Audio lib"/>
@@ -1597,7 +1597,6 @@
   <Flow>
     <Routine name="welcome"/>
     <Routine name="consent"/>
-    <Routine name="demographics"/>
     <LoopInitiator loopType="TrialHandler" name="audio_loop">
       <Param name="Selected rows" updates="None" val="" valType="str"/>
       <Param name="conditions" updates="None" val="None" valType="str"/>
@@ -1668,8 +1667,6 @@
     </LoopInitiator>
     <Routine name="tr_trial"/>
     <LoopTerminator name="tr_loop"/>
-    <Routine name="leapq_gen"/>
-    <Routine name="leapq_en"/>
     <Routine name="debrief"/>
   </Flow>
 </PsychoPy2experiment>
