@@ -19,7 +19,7 @@ const psychoJS = new PsychoJS({
 // open window:
 psychoJS.openWindow({
   fullscr: true,
-  color: new util.Color((1.0000, 1.0000, 1.0000)),
+  color: new util.Color('white'),
   units: 'height',
   waitBlanking: true,
   backgroundImage: '',
@@ -636,7 +636,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0.15], draggable: false, height: 0.035,  wrapWidth: 1.3, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color((-1.0000, -1.0000, -1.0000)),  opacity: undefined,
+    color: new util.Color('black'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -648,7 +648,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, (- 0.15)], draggable: false, height: 0.03,  wrapWidth: 1.3, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color((-1.0000, -1.0000, -1.0000)),  opacity: undefined,
+    color: new util.Color('black'),  opacity: undefined,
     depth: -1.0 
   });
   
@@ -664,7 +664,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0.1], draggable: false, height: 0.032,  wrapWidth: 1.2, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color((-1.0000, -1.0000, -1.0000)),  opacity: undefined,
+    color: new util.Color('black'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -810,7 +810,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], draggable: false, height: 0.035,  wrapWidth: 1.4, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color((-1.0000, -1.0000, -1.0000)),  opacity: undefined,
+    color: new util.Color('black'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -826,7 +826,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], draggable: false, height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color((-1.0000, -1.0000, -1.0000)),  opacity: undefined,
+    color: new util.Color('black'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -942,7 +942,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], draggable: false, height: 0.035,  wrapWidth: 1.4, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color((-1.0000, -1.0000, -1.0000)),  opacity: undefined,
+    color: new util.Color('black'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -1077,7 +1077,7 @@ async function experimentInit() {
   tr_box = new visual.TextBox({
     win: psychoJS.window,
     name: 'tr_box',
-    text: 'Text can be **bold**, *italic*, ***bold italic*** or [color=red]colorful[/color]. To use a regular asterisk, remember to \\*escape\\* it.\n\nLine breaks are allowed!',
+    text: '',
     placeholder: 'Type the Turkish meaning here',
     font: 'Arial',
     pos: [0, 0], 
@@ -3598,7 +3598,7 @@ function tr_trialRoutineBegin(snapshot) {
     tr_trialMaxDurationReached = false;
     // update component parameters for each repeat
     tr_word.setText(word);
-    tr_box.setText('Text can be **bold**, *italic*, ***bold italic*** or [color=red]colorful[/color]. To use a regular asterisk, remember to \\*escape\\* it.\n\nLine breaks are allowed!');
+    tr_box.setText('');
     tr_box.refresh();
     // reset btn_next to account for continued clicks & clear times on/off
     btn_next.reset()
