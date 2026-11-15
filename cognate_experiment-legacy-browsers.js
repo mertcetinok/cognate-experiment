@@ -831,6 +831,8 @@ async function experimentInit() {
   });
   
   // Run 'Begin Experiment' code from pos_code
+  let ok = false;
+  let streak = 1;
   if (Math.random() < 0.5) {
       my_list = "A";
       offset = 0;
