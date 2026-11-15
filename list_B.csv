@@ -1,0 +1,73 @@
+item,condition,pair,critical,sentence,audio,target,d1,d2,d3,competitor_slot,audio_dur
+TC01,TC,,Taxi,She looked at the taxi and its,audio/tc_taxi.wav,images/driver.png,images/sewing_machine.png,images/cement_mixer.png,images/puzzle.png,,2.125
+TC02,TC,,Train,She waited for the train on the,audio/tc_train.wav,images/train_station.png,images/necklace.png,images/squirrel.png,images/tea.png,,1.829
+TC03,TC,,Hotel,He went into the hotel and walked to the,audio/tc_hotel.wav,images/reception.png,images/oyster.png,images/vase.png,images/kindergarten.png,,2.309
+TC04,TC,,Uniform,She washed the uniform in a,audio/tc_uniform.wav,images/washing_machine.png,images/dartboard.png,images/ice_bag.png,images/stapler.png,,1.706
+TC05,TC,,Coffee,She put the coffee into a,audio/tc_coffee.wav,images/mug.png,images/lamp.png,images/ladybug.png,images/bicycle.png,,1.614
+TC06,TC,,Tomato,She put the tomato on her,audio/tc_tomato.wav,images/pizza.png,images/cactus.png,images/croissant.png,images/sunglasses.png,,1.732
+TC07,TC,,Potato,He put the potato into the,audio/tc_potato.wav,images/electric_fryer.png,images/binoculars.png,images/turtle.png,images/sunflower.png,,1.624
+TC08,TC,,Police,He heard the police and their,audio/tc_police.wav,images/siren.png,images/butterfly.png,images/vacuum_cleaner.png,images/camera.png,,1.46
+TC09,TC,,Champion,He saw the champion with his,audio/tc_champion.wav,images/medal.png,images/padlock.png,images/pear.png,images/shield.png,,1.614
+TC10,TC,,Professor,He saw the professor in front of the,audio/tc_professor.wav,images/blackboard.png,images/umbrella.png,images/oven.png,images/alarm_clock.png,,2.233
+TC11,TC,,Pilot,He met the pilot in the,audio/tc_pilot.wav,images/jet_plane.png,images/bedroom.png,images/post_office.png,images/kiosk.png,,1.353
+TC12,TC,,Doctor,He saw the doctor holding a,audio/tc_doctor.wav,images/stethoscope.png,images/magnet.png,images/abacus.png,images/hairdryer.png,,1.998
+TC13,TC,,Corridor,She stood in the corridor next to the,audio/tc_corridor.wav,images/door.png,images/kangaroo.png,images/airport.png,images/toaster.png,,1.845
+TC14,TC,,Restaurant,She sat in the restaurant and called the,audio/tc_restaurant.wav,images/waiter.png,images/peacock.png,images/snowman.png,images/elephant.png,,2.178
+TC15,TC,,Captain,She walked across the deck to greet the captain of the,audio/tc_captain.wav,images/ship.png,images/house.png,images/motorcycle.png,images/horse.png,,2.646
+TC16,TC,,Television,He turned on the television with the,audio/tc_television.wav,images/remote_control.png,images/bridge.png,images/grapes.png,images/flag.png,,1.91
+TC17,TC,,Ambulance,She followed the ambulance to the,audio/tc_ambulance.wav,images/hospital.png,images/crab.png,images/plum.png,images/rose.png,,1.742
+TC18,TC,,Museum,They visited the museum to see the old,audio/tc_museum.wav,images/statue.png,images/shovel.png,images/donkey.png,images/button.png,,2.336
+TC19,TC,,Football,He kicked the football into the,audio/tc_football.wav,images/goal.png,images/mailbox.png,images/teapot.png,images/hedgehog.png,,2.09
+TC20,TC,,Shampoo,She put the shampoo on her,audio/tc_shampoo.wav,images/hair.png,images/kettle.png,images/deer.png,images/saddle.png,,1.46
+TC21,TC,,Pyjamas,He wore the pyjamas in his,audio/tc_pyjamas.wav,images/bedroom.png,images/goose.png,images/map.png,images/cloud.png,,1.649
+TC22,TC,,Panda,She saw the panda eating some,audio/tc_panda.wav,images/bamboo.png,images/harmonica.png,images/yo_yo.png,images/screwdriver.png,,1.752
+TC23,TC,,Ketchup,He put the ketchup on his,audio/tc_ketchup.wav,images/hot_dog.png,images/lightning.png,images/spider.png,images/wheelbarrow.png,,1.624
+TC24,TC,,Basketball,He threw the basketball into the,audio/tc_basketball.wav,images/hoop.png,images/rooster.png,images/parachute.png,images/daisy.png,,1.91
+NC01,NC,,Bottle,She put the bottle in the,audio/nc_bottle.wav,images/refrigerator.png,images/helicopter.png,images/globe.png,images/socks.png,,1.327
+NC02,NC,,Umbrella,She opened the umbrella because of the,audio/nc_umbrella.wav,images/rain.png,images/bagel.png,images/starfish.png,images/coconut.png,,2.115
+NC03,NC,,Apple,She picked the apple from the,audio/nc_apple.wav,images/tree.png,images/lollipop.png,images/raincoat.png,images/igloo.png,,1.367
+NC04,NC,,Farmer,She talked to the farmer about his,audio/nc_farmer.wav,images/cow.png,images/frisbee.png,images/sneakers.png,images/orchid.png,,1.988
+NC05,NC,,Ladder,He climbed the ladder to change the,audio/nc_ladder.wav,images/light_bulb.png,images/cello.png,images/camel.png,images/volcano.png,,2.018
+NC06,NC,,Gloves,He wore the gloves to make a,audio/nc_gloves.wav,images/snowball.png,images/tent.png,images/flashlight.png,images/cat.png,,1.598
+NC07,NC,,Soup,She poured the soup into a,audio/nc_soup.wav,images/bowl.png,images/pyramid.png,images/helmet.png,images/microphone.png,,1.855
+NC08,NC,,Onion,He chopped the onion for the,audio/nc_onion.wav,images/kebab.png,images/bus_stop.png,images/hand_dryer.png,images/donut.png,,1.614
+NC09,NC,,Rabbit,She gave the rabbit a fresh,audio/nc_rabbit.wav,images/carrot.png,images/balloon.png,images/blender.png,images/crayons.png,,1.507
+NC10,NC,,Flower,She placed the flower inside a,audio/nc_flower.wav,images/vase.png,images/ukulele.png,images/mouse.png,images/sofa.png,,1.89
+NC11,NC,,Milk,She drank the milk with some,audio/nc_milk.wav,images/cookies.png,images/ruler.png,images/usb_flash_drive.png,images/swimsuit.png,,1.644
+NC12,NC,,Book,She put the book on a,audio/nc_book.wav,images/shelf.png,images/hammock.png,images/comb.png,images/soap.png,,1.25
+NC13,NC,,Nurse,She saw the nurse holding a,audio/nc_nurse.wav,images/syringe.png,images/walrus.png,images/banjo.png,images/cabbage.png,,1.434
+NC14,NC,,Firefighter,He saw the firefighter with his,audio/nc_firefighter.wav,images/hose.png,images/monkey.png,images/zipper.png,images/popcorn.png,,1.89
+NC15,NC,,Squirrel,She saw the squirrel eating some,audio/nc_squirrel.wav,images/nuts.png,images/dustbin.png,images/fan.png,images/pine_tree.png,,1.966
+NC16,NC,,Plane,She looked at the plane and its,audio/nc_plane.wav,images/wings.png,images/cucumber.png,images/mask.png,images/raccoon.png,,1.825
+NC17,NC,,Garden,She worked in the garden with a,audio/nc_garden.wav,images/rake.png,images/llama.png,images/whistle.png,images/rhino.png,,1.654
+NC18,NC,,Egg,She broke the egg into a,audio/nc_egg.wav,images/pan.png,images/ant.png,images/flute.png,images/skunk.png,,1.532
+NC19,NC,,Bird,She saw the bird sitting in its,audio/nc_bird.wav,images/nest.png,images/covered_wagon.png,images/radish.png,images/muffin.png,,1.973
+NC20,NC,,Forest,They walked through the forest and saw a,audio/nc_forest.wav,images/wolf.png,images/sled.png,images/jar.png,images/surfboard.png,,2.238
+NC21,NC,,Butcher,She saw the butcher cutting the,audio/nc_butcher.wav,images/shank.png,images/caterpillar.png,images/crown.png,images/hippo.png,,1.609
+NC22,NC,,Cave,He looked inside the cave and found a,audio/nc_cave.wav,images/bat.png,images/tricycle.png,images/doghouse.png,images/paperclip.png,,2.192
+NC23,NC,,Mirror,She looked into the mirror and put on her,audio/nc_mirror.wav,images/lipstick.png,images/whale.png,images/gorilla.png,images/stillson_wrench.png,,2.155
+NC24,NC,,Towel,She hung the towel next to the,audio/nc_towel.wav,images/shower.png,images/gong.png,images/dominos.png,images/marbles.png,,1.983
+CTRL01,CTRL,P01,Noodles,The waiter served the noodles with some,audio/ctrl_pasta.wav,images/sauce.png,images/candles.png,images/teddy_bear.png,images/skateboard.png,d1,2.329
+FC02,FC,P02,Fabric,The fabric was made of,audio/fc_fabric.wav,images/cotton.png,images/brick.png,images/corn.png,images/pineapple.png,d1,1.44
+CTRL03,CTRL,P03,Cupboard,He cleaned the cupboard with a,audio/ctrl_closet.wav,images/cleaning_cloth.png,images/toilet_brush.png,images/door_handle.png,images/shoe.png,d1,1.377
+FC04,FC,P04,Axe,He put the axe next to the,audio/fc_axe.wav,images/logs.png,images/wheel.png,images/beach.png,images/microwave.png,d1,1.532
+CTRL05,CTRL,P05,Bag,The worker sealed the bag with a,audio/ctrl_box.wav,images/tape.png,images/gloves.png,images/hourglass.png,images/parrot.png,d1,1.87
+FC06,FC,P06,Sandal,He secured the sandal with its,audio/fc_sandal.wav,images/strap.png,images/anchor.png,images/flamingo.png,images/heater.png,d1,2.048
+CTRL07,CTRL,P07,Glass,She cleaned the glass with a soft,audio/ctrl_dish.wav,images/sponge.png,images/toothbrush.png,images/eraser.png,images/paintbrush.png,d1,1.895
+FC08,FC,P08,Pill,She put the pill into her,audio/fc_pill.wav,images/mouth.png,images/robot.png,images/flower.png,images/brush.png,d1,1.552
+CTRL09,CTRL,P09,Frog,She put the frog into the,audio/ctrl_fish.wav,images/aquarium.png,images/socket.png,images/coffee_grinder.png,images/iron.png,d1,1.306
+FC10,FC,P10,Leaf,The leaf floated in the,audio/fc_leaf.wav,images/pond.png,images/bathtub.png,images/pillow.png,images/owl.png,d1,1.51
+CTRL11,CTRL,P11,Harbour,The harbour protected the small,audio/ctrl_bay.wav,images/sailboat.png,images/child.png,images/belt.png,images/compass.png,d1,1.953
+FC12,FC,P12,Bell,She wrapped the bell with a,audio/fc_bell.wav,images/ribbon.png,images/belt.png,images/book.png,images/pencil_sharpener.png,d1,1.357
+CTRL13,CTRL,P13,Choir,The choir was on the,audio/ctrl_band.wav,images/stage.png,images/package.png,images/tractor.png,images/snail.png,d1,1.24
+FC14,FC,P14,Car,The car caused an,audio/fc_car.wav,images/accident.png,images/avalanche.png,images/cherry.png,images/saxophone.png,d1,1.522
+CTRL15,CTRL,P15,Waterfall,They looked at the waterfall and the big,audio/ctrl_dam.wav,images/lake.png,images/chimney.png,images/strawberry.png,images/hamburger.png,d1,2.11
+FC16,FC,P16,Eye,She looked at the eye through a,audio/fc_eye.wav,images/magnifying_glass.png,images/telescope.png,images/pepper.png,images/banana.png,d1,1.537
+CTRL17,CTRL,P17,Laundry,He carried the laundry down to the,audio/ctrl_kayak.wav,images/river.png,images/ski_run.png,images/sandwich.png,images/bee.png,d1,1.742
+FC18,FC,P18,Lamb,She saw the lamb next to the,audio/fc_lamb.wav,images/sheep.png,images/desk.png,images/dinosaur.png,images/rocket.png,d1,1.97
+CTRL19,CTRL,P19,Violin,He read about the history of the violin and the,audio/ctrl_harp.wav,images/piano.png,images/tank.png,images/spinach.png,images/smartwatch.png,d1,2.534
+FC20,FC,P20,Apartment,She looked at the apartment with its,audio/fc_apartment.wav,images/kitchen.png,images/roof.png,images/christmas_tree.png,images/lighthouse.png,d1,1.812
+CTRL21,CTRL,P21,Graduate,She saw the graduate students on the,audio/ctrl_college.wav,images/lawn.png,images/seesaw.png,images/feather.png,images/broom.png,d1,1.996
+FC22,FC,P22,Laugh,She drew the laugh with a big,audio/fc_laugh.wav,images/smile.png,images/speech_bubble.png,images/dustpan.png,images/pinecone.png,d1,1.835
+CTRL23,CTRL,P23,Mother,The baby looked for her mother and her,audio/ctrl_mama.wav,images/father.png,images/spoon.png,images/pirate.png,images/tulip.png,d1,1.998
+FC24,FC,P24,Hay,He looked at the hay in the,audio/fc_hay.wav,images/barn.png,images/raise_a_hand.png,images/cupcake.png,images/lobster.png,d1,1.93

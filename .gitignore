@@ -1,0 +1,9 @@
+data/
+*.psydat
+*.log
+*_lastrun.py
+__pycache__/
+*.zip
+lbq.xlsx
+leapq_turkish.xlsx
+consent_pages.xlsx

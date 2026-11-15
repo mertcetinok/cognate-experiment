@@ -1,0 +1,5 @@
+item,condition,pair,critical,sentence,audio,target,d1,d2,d3,competitor_slot,audio_dur
+PR1,PRACTICE,,Cheese,She sliced the cheese with a sharp,audio/prac_cheese.wav,images/knife.png,images/kite.png,images/drum.png,images/wallet.png,,2.135
+PR2,PRACTICE,,Door,He locked the door with his,audio/prac_door.wav,images/key.png,images/tiger.png,images/lemon.png,images/rainbow.png,,1.548
+PR3,PRACTICE,,Letter,She wrote the letter with a blue,audio/prac_letter.wav,images/pen.png,images/giraffe.png,images/pumpkin.png,images/mushroom.png,,1.454
+PR4,PRACTICE,,Paper,She cut the paper with the,audio/prac_paper.wav,images/scissors.png,images/snake.png,images/zebra.png,images/trumpet.png,,1.42
