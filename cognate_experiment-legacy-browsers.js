@@ -137,7 +137,7 @@ psychoJS.start({
     {'name': 'audio/tc_hotel.wav', 'path': 'audio/tc_hotel.wav'},
     {'name': 'images/reception.png', 'path': 'images/reception.png'},
     {'name': 'images/oyster.png', 'path': 'images/oyster.png'},
-    {'name': 'images/vase.png', 'path': 'images/vase.png'},
+    {'name': 'images/shark.png', 'path': 'images/shark.png'},
     {'name': 'images/kindergarten.png', 'path': 'images/kindergarten.png'},
     {'name': 'audio/tc_uniform.wav', 'path': 'audio/tc_uniform.wav'},
     {'name': 'images/washing_machine.png', 'path': 'images/washing_machine.png'},
@@ -176,7 +176,7 @@ psychoJS.start({
     {'name': 'images/alarm_clock.png', 'path': 'images/alarm_clock.png'},
     {'name': 'audio/tc_pilot.wav', 'path': 'audio/tc_pilot.wav'},
     {'name': 'images/jet_plane.png', 'path': 'images/jet_plane.png'},
-    {'name': 'images/bedroom.png', 'path': 'images/bedroom.png'},
+    {'name': 'images/unicorn.png', 'path': 'images/unicorn.png'},
     {'name': 'images/post_office.png', 'path': 'images/post_office.png'},
     {'name': 'images/kiosk.png', 'path': 'images/kiosk.png'},
     {'name': 'audio/tc_doctor.wav', 'path': 'audio/tc_doctor.wav'},
@@ -225,6 +225,7 @@ psychoJS.start({
     {'name': 'images/deer.png', 'path': 'images/deer.png'},
     {'name': 'images/saddle.png', 'path': 'images/saddle.png'},
     {'name': 'audio/tc_pyjamas.wav', 'path': 'audio/tc_pyjamas.wav'},
+    {'name': 'images/bedroom.png', 'path': 'images/bedroom.png'},
     {'name': 'images/goose.png', 'path': 'images/goose.png'},
     {'name': 'images/map.png', 'path': 'images/map.png'},
     {'name': 'images/cloud.png', 'path': 'images/cloud.png'},
@@ -262,7 +263,7 @@ psychoJS.start({
     {'name': 'images/cow.png', 'path': 'images/cow.png'},
     {'name': 'images/frisbee.png', 'path': 'images/frisbee.png'},
     {'name': 'images/sneakers.png', 'path': 'images/sneakers.png'},
-    {'name': 'images/orchid.png', 'path': 'images/orchid.png'},
+    {'name': 'images/trap.png', 'path': 'images/trap.png'},
     {'name': 'audio/nc_ladder.wav', 'path': 'audio/nc_ladder.wav'},
     {'name': 'images/light_bulb.png', 'path': 'images/light_bulb.png'},
     {'name': 'images/cello.png', 'path': 'images/cello.png'},
@@ -289,6 +290,7 @@ psychoJS.start({
     {'name': 'images/blender.png', 'path': 'images/blender.png'},
     {'name': 'images/crayons.png', 'path': 'images/crayons.png'},
     {'name': 'audio/nc_flower.wav', 'path': 'audio/nc_flower.wav'},
+    {'name': 'images/vase.png', 'path': 'images/vase.png'},
     {'name': 'images/ukulele.png', 'path': 'images/ukulele.png'},
     {'name': 'images/mouse.png', 'path': 'images/mouse.png'},
     {'name': 'images/sofa.png', 'path': 'images/sofa.png'},
@@ -299,7 +301,7 @@ psychoJS.start({
     {'name': 'images/swimsuit.png', 'path': 'images/swimsuit.png'},
     {'name': 'audio/nc_book.wav', 'path': 'audio/nc_book.wav'},
     {'name': 'images/shelf.png', 'path': 'images/shelf.png'},
-    {'name': 'images/hammock.png', 'path': 'images/hammock.png'},
+    {'name': 'images/jellyfish.png', 'path': 'images/jellyfish.png'},
     {'name': 'images/comb.png', 'path': 'images/comb.png'},
     {'name': 'images/soap.png', 'path': 'images/soap.png'},
     {'name': 'audio/nc_nurse.wav', 'path': 'audio/nc_nurse.wav'},
@@ -367,7 +369,7 @@ psychoJS.start({
     {'name': 'images/candles.png', 'path': 'images/candles.png'},
     {'name': 'images/teddy_bear.png', 'path': 'images/teddy_bear.png'},
     {'name': 'images/skateboard.png', 'path': 'images/skateboard.png'},
-    {'name': 'audio/ctrl_fabric.wav', 'path': 'audio/ctrl_fabric.wav'},
+    {'name': 'audio/fc_fabric.wav', 'path': 'audio/fc_fabric.wav'},
     {'name': 'images/cotton.png', 'path': 'images/cotton.png'},
     {'name': 'images/brick.png', 'path': 'images/brick.png'},
     {'name': 'images/corn.png', 'path': 'images/corn.png'},
@@ -377,7 +379,7 @@ psychoJS.start({
     {'name': 'images/toilet_brush.png', 'path': 'images/toilet_brush.png'},
     {'name': 'images/door_handle.png', 'path': 'images/door_handle.png'},
     {'name': 'images/shoe.png', 'path': 'images/shoe.png'},
-    {'name': 'audio/ctrl_axe.wav', 'path': 'audio/ctrl_axe.wav'},
+    {'name': 'audio/fc_axe.wav', 'path': 'audio/fc_axe.wav'},
     {'name': 'images/logs.png', 'path': 'images/logs.png'},
     {'name': 'images/wheel.png', 'path': 'images/wheel.png'},
     {'name': 'images/beach.png', 'path': 'images/beach.png'},
@@ -387,7 +389,7 @@ psychoJS.start({
     {'name': 'images/gloves.png', 'path': 'images/gloves.png'},
     {'name': 'images/hourglass.png', 'path': 'images/hourglass.png'},
     {'name': 'images/parrot.png', 'path': 'images/parrot.png'},
-    {'name': 'audio/ctrl_sandal.wav', 'path': 'audio/ctrl_sandal.wav'},
+    {'name': 'audio/fc_sandal.wav', 'path': 'audio/fc_sandal.wav'},
     {'name': 'images/strap.png', 'path': 'images/strap.png'},
     {'name': 'images/anchor.png', 'path': 'images/anchor.png'},
     {'name': 'images/flamingo.png', 'path': 'images/flamingo.png'},
@@ -397,7 +399,7 @@ psychoJS.start({
     {'name': 'images/toothbrush.png', 'path': 'images/toothbrush.png'},
     {'name': 'images/eraser.png', 'path': 'images/eraser.png'},
     {'name': 'images/paintbrush.png', 'path': 'images/paintbrush.png'},
-    {'name': 'audio/ctrl_pill.wav', 'path': 'audio/ctrl_pill.wav'},
+    {'name': 'audio/fc_pill.wav', 'path': 'audio/fc_pill.wav'},
     {'name': 'images/mouth.png', 'path': 'images/mouth.png'},
     {'name': 'images/robot.png', 'path': 'images/robot.png'},
     {'name': 'images/flower.png', 'path': 'images/flower.png'},
@@ -407,7 +409,7 @@ psychoJS.start({
     {'name': 'images/socket.png', 'path': 'images/socket.png'},
     {'name': 'images/coffee_grinder.png', 'path': 'images/coffee_grinder.png'},
     {'name': 'images/iron.png', 'path': 'images/iron.png'},
-    {'name': 'audio/ctrl_leaf.wav', 'path': 'audio/ctrl_leaf.wav'},
+    {'name': 'audio/fc_leaf.wav', 'path': 'audio/fc_leaf.wav'},
     {'name': 'images/pond.png', 'path': 'images/pond.png'},
     {'name': 'images/bathtub.png', 'path': 'images/bathtub.png'},
     {'name': 'images/pillow.png', 'path': 'images/pillow.png'},
@@ -415,10 +417,11 @@ psychoJS.start({
     {'name': 'audio/fc_bay.wav', 'path': 'audio/fc_bay.wav'},
     {'name': 'images/sailboat.png', 'path': 'images/sailboat.png'},
     {'name': 'images/child.png', 'path': 'images/child.png'},
-    {'name': 'images/belt.png', 'path': 'images/belt.png'},
+    {'name': 'images/hammer.png', 'path': 'images/hammer.png'},
     {'name': 'images/compass.png', 'path': 'images/compass.png'},
-    {'name': 'audio/ctrl_bell.wav', 'path': 'audio/ctrl_bell.wav'},
+    {'name': 'audio/fc_bell.wav', 'path': 'audio/fc_bell.wav'},
     {'name': 'images/ribbon.png', 'path': 'images/ribbon.png'},
+    {'name': 'images/belt.png', 'path': 'images/belt.png'},
     {'name': 'images/book.png', 'path': 'images/book.png'},
     {'name': 'images/pencil_sharpener.png', 'path': 'images/pencil_sharpener.png'},
     {'name': 'audio/fc_band.wav', 'path': 'audio/fc_band.wav'},
@@ -426,7 +429,7 @@ psychoJS.start({
     {'name': 'images/package.png', 'path': 'images/package.png'},
     {'name': 'images/tractor.png', 'path': 'images/tractor.png'},
     {'name': 'images/snail.png', 'path': 'images/snail.png'},
-    {'name': 'audio/ctrl_car.wav', 'path': 'audio/ctrl_car.wav'},
+    {'name': 'audio/fc_car.wav', 'path': 'audio/fc_car.wav'},
     {'name': 'images/accident.png', 'path': 'images/accident.png'},
     {'name': 'images/avalanche.png', 'path': 'images/avalanche.png'},
     {'name': 'images/cherry.png', 'path': 'images/cherry.png'},
@@ -436,7 +439,7 @@ psychoJS.start({
     {'name': 'images/chimney.png', 'path': 'images/chimney.png'},
     {'name': 'images/strawberry.png', 'path': 'images/strawberry.png'},
     {'name': 'images/hamburger.png', 'path': 'images/hamburger.png'},
-    {'name': 'audio/ctrl_eye.wav', 'path': 'audio/ctrl_eye.wav'},
+    {'name': 'audio/fc_eye.wav', 'path': 'audio/fc_eye.wav'},
     {'name': 'images/magnifying_glass.png', 'path': 'images/magnifying_glass.png'},
     {'name': 'images/telescope.png', 'path': 'images/telescope.png'},
     {'name': 'images/pepper.png', 'path': 'images/pepper.png'},
@@ -446,17 +449,17 @@ psychoJS.start({
     {'name': 'images/ski_run.png', 'path': 'images/ski_run.png'},
     {'name': 'images/sandwich.png', 'path': 'images/sandwich.png'},
     {'name': 'images/bee.png', 'path': 'images/bee.png'},
-    {'name': 'audio/ctrl_lamb.wav', 'path': 'audio/ctrl_lamb.wav'},
+    {'name': 'audio/fc_lamb.wav', 'path': 'audio/fc_lamb.wav'},
     {'name': 'images/sheep.png', 'path': 'images/sheep.png'},
     {'name': 'images/desk.png', 'path': 'images/desk.png'},
-    {'name': 'images/dinosaur.png', 'path': 'images/dinosaur.png'},
+    {'name': 'images/calculator.png', 'path': 'images/calculator.png'},
     {'name': 'images/rocket.png', 'path': 'images/rocket.png'},
     {'name': 'audio/fc_harp.wav', 'path': 'audio/fc_harp.wav'},
     {'name': 'images/piano.png', 'path': 'images/piano.png'},
     {'name': 'images/tank.png', 'path': 'images/tank.png'},
     {'name': 'images/spinach.png', 'path': 'images/spinach.png'},
     {'name': 'images/smartwatch.png', 'path': 'images/smartwatch.png'},
-    {'name': 'audio/ctrl_apartment.wav', 'path': 'audio/ctrl_apartment.wav'},
+    {'name': 'audio/fc_apartment.wav', 'path': 'audio/fc_apartment.wav'},
     {'name': 'images/kitchen.png', 'path': 'images/kitchen.png'},
     {'name': 'images/roof.png', 'path': 'images/roof.png'},
     {'name': 'images/christmas_tree.png', 'path': 'images/christmas_tree.png'},
@@ -466,7 +469,7 @@ psychoJS.start({
     {'name': 'images/seesaw.png', 'path': 'images/seesaw.png'},
     {'name': 'images/feather.png', 'path': 'images/feather.png'},
     {'name': 'images/broom.png', 'path': 'images/broom.png'},
-    {'name': 'audio/ctrl_laugh.wav', 'path': 'audio/ctrl_laugh.wav'},
+    {'name': 'audio/fc_laugh.wav', 'path': 'audio/fc_laugh.wav'},
     {'name': 'images/smile.png', 'path': 'images/smile.png'},
     {'name': 'images/speech_bubble.png', 'path': 'images/speech_bubble.png'},
     {'name': 'images/dustpan.png', 'path': 'images/dustpan.png'},
@@ -476,35 +479,11 @@ psychoJS.start({
     {'name': 'images/spoon.png', 'path': 'images/spoon.png'},
     {'name': 'images/pirate.png', 'path': 'images/pirate.png'},
     {'name': 'images/tulip.png', 'path': 'images/tulip.png'},
-    {'name': 'audio/ctrl_hay.wav', 'path': 'audio/ctrl_hay.wav'},
+    {'name': 'audio/fc_hay.wav', 'path': 'audio/fc_hay.wav'},
     {'name': 'images/barn.png', 'path': 'images/barn.png'},
     {'name': 'images/raise_a_hand.png', 'path': 'images/raise_a_hand.png'},
     {'name': 'images/cupcake.png', 'path': 'images/cupcake.png'},
     {'name': 'images/lobster.png', 'path': 'images/lobster.png'},
-    {'name': 'audio/ctrl_pasta.wav', 'path': 'audio/ctrl_pasta.wav'},
-    {'name': 'audio/fc_fabric.wav', 'path': 'audio/fc_fabric.wav'},
-    {'name': 'audio/ctrl_closet.wav', 'path': 'audio/ctrl_closet.wav'},
-    {'name': 'audio/fc_axe.wav', 'path': 'audio/fc_axe.wav'},
-    {'name': 'audio/ctrl_box.wav', 'path': 'audio/ctrl_box.wav'},
-    {'name': 'audio/fc_sandal.wav', 'path': 'audio/fc_sandal.wav'},
-    {'name': 'audio/ctrl_dish.wav', 'path': 'audio/ctrl_dish.wav'},
-    {'name': 'audio/fc_pill.wav', 'path': 'audio/fc_pill.wav'},
-    {'name': 'audio/ctrl_fish.wav', 'path': 'audio/ctrl_fish.wav'},
-    {'name': 'audio/fc_leaf.wav', 'path': 'audio/fc_leaf.wav'},
-    {'name': 'audio/ctrl_bay.wav', 'path': 'audio/ctrl_bay.wav'},
-    {'name': 'audio/fc_bell.wav', 'path': 'audio/fc_bell.wav'},
-    {'name': 'audio/ctrl_band.wav', 'path': 'audio/ctrl_band.wav'},
-    {'name': 'audio/fc_car.wav', 'path': 'audio/fc_car.wav'},
-    {'name': 'audio/ctrl_dam.wav', 'path': 'audio/ctrl_dam.wav'},
-    {'name': 'audio/fc_eye.wav', 'path': 'audio/fc_eye.wav'},
-    {'name': 'audio/ctrl_kayak.wav', 'path': 'audio/ctrl_kayak.wav'},
-    {'name': 'audio/fc_lamb.wav', 'path': 'audio/fc_lamb.wav'},
-    {'name': 'audio/ctrl_harp.wav', 'path': 'audio/ctrl_harp.wav'},
-    {'name': 'audio/fc_apartment.wav', 'path': 'audio/fc_apartment.wav'},
-    {'name': 'audio/ctrl_college.wav', 'path': 'audio/ctrl_college.wav'},
-    {'name': 'audio/fc_laugh.wav', 'path': 'audio/fc_laugh.wav'},
-    {'name': 'audio/ctrl_mama.wav', 'path': 'audio/ctrl_mama.wav'},
-    {'name': 'audio/fc_hay.wav', 'path': 'audio/fc_hay.wav'},
     {'name': 'lextale.csv', 'path': 'lextale.csv'},
     {'name': 'translation.csv', 'path': 'translation.csv'},
     {'name': 'audio/sound_check.wav', 'path': 'audio/sound_check.wav'},
@@ -562,10 +541,6 @@ var instr_text;
 var key_instr;
 var trialClock;
 var fixation;
-var my_list;
-var offset;
-var even_lab;
-var odd_lab;
 var labels;
 var idx;
 var order;
@@ -774,22 +749,10 @@ async function experimentInit() {
   // Run 'Begin Experiment' code from pos_code
   let ok = false;
   let streak = 1;
-  if (Math.random() < 0.5) {
-      my_list = "A";
-      offset = 0;
-      even_lab = "FC";
-      odd_lab = "CTRL";
-  } else {
-      my_list = "B";
-      offset = 72;
-      even_lab = "CTRL";
-      odd_lab = "FC";
-  }
-  
   labels = [];
   for (let i = 0; i < 24; i++) { labels.push("TC"); }
   for (let i = 0; i < 24; i++) { labels.push("NC"); }
-  for (let i = 0; i < 12; i++) { labels.push(even_lab); labels.push(odd_lab); }
+  for (let i = 0; i < 24; i++) { labels.push("FC"); }
   
   idx = [];
   for (let i = 0; i < 72; i++) { idx.push(i); }
@@ -810,7 +773,7 @@ async function experimentInit() {
   }
   
   order = [];
-  for (let j = 0; j < 72; j++) { order.push(idx[j] + offset); }
+  for (let j = 0; j < 72; j++) { order.push(idx[j]); }
   img_target = new visual.ImageStim({
     win : psychoJS.window,
     name : 'img_target', units : undefined, 
@@ -2476,7 +2439,6 @@ function trialRoutineEnd(snapshot) {
     }
     psychoJS.experiment.addData("response", resp);
     psychoJS.experiment.addData("correct", corr);
-    psychoJS.experiment.addData("list", my_list);
     
     snd.stop();  // ensure sound has stopped at end of Routine
     // store data for psychoJS.experiment (ExperimentHandler)
@@ -2822,16 +2784,6 @@ function lex_instrRoutineEachFrame() {
     
     // if lex_instr_text is active this frame...
     if (lex_instr_text.status === PsychoJS.Status.STARTED) {
-    }
-    
-    frameRemains = 0 + 1.0 - psychoJS.window.monitorFramePeriod * 0.75;// most of one frame period left
-    if (lex_instr_text.status === PsychoJS.Status.STARTED && t >= frameRemains) {
-      // keep track of stop time/frame for later
-      lex_instr_text.tStop = t;  // not accounting for scr refresh
-      lex_instr_text.frameNStop = frameN;  // exact frame index
-      // update status
-      lex_instr_text.status = PsychoJS.Status.FINISHED;
-      lex_instr_text.setAutoDraw(false);
     }
     
     
@@ -3215,6 +3167,16 @@ function tr_instrRoutineEachFrame() {
     
     
     // *key_tr_inst5* updates
+    if (t >= 0.5 && key_tr_inst5.status === PsychoJS.Status.NOT_STARTED) {
+      // keep track of start time/frame for later
+      key_tr_inst5.tStart = t;  // (not accounting for frame time here)
+      key_tr_inst5.frameNStart = frameN;  // exact frame index
+      
+      // keyboard checking is just starting
+      psychoJS.window.callOnFlip(function() { key_tr_inst5.clock.reset(); });  // t=0 on next screen flip
+      psychoJS.window.callOnFlip(function() { key_tr_inst5.start(); }); // start on screen flip
+      psychoJS.window.callOnFlip(function() { key_tr_inst5.clearEvents(); });
+    }
     
     // if key_tr_inst5 is active this frame...
     if (key_tr_inst5.status === PsychoJS.Status.STARTED) {
