@@ -2217,7 +2217,7 @@ function trialRoutineEachFrame() {
     // update/draw components on each frame
     
     // *fixation* updates
-    if (t >= 1.0 && fixation.status === PsychoJS.Status.NOT_STARTED) {
+    if (t >= 0 && fixation.status === PsychoJS.Status.NOT_STARTED) {
       // keep track of start time/frame for later
       fixation.tStart = t;  // (not accounting for frame time here)
       fixation.frameNStart = frameN;  // exact frame index
@@ -2230,7 +2230,7 @@ function trialRoutineEachFrame() {
     if (fixation.status === PsychoJS.Status.STARTED) {
     }
     
-    frameRemains = 1.0 + 0.5 - psychoJS.window.monitorFramePeriod * 0.75;// most of one frame period left
+    frameRemains = 0 + 1.0 - psychoJS.window.monitorFramePeriod * 0.75;// most of one frame period left
     if (fixation.status === PsychoJS.Status.STARTED && t >= frameRemains) {
       // keep track of stop time/frame for later
       fixation.tStop = t;  // not accounting for scr refresh
